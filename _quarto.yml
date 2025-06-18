@@ -3,19 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Replicability crisis in science"
+  title: "Methodological Review Board"
   navbar:
     left:
       - href: index.qmd
         text: home
-      - href: schedule.qmd
-        text: schedule
-      - href: getting-started.qmd
-        text: getting-started
-      #- href: admission.qmd
-      #  text: admission
-      - href: public-lecture.qmd
-        text: public lecture
 
 format:
   html:
