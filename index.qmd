@@ -24,7 +24,7 @@ ciaooooo
 ::: {.columns}
 
 ::: {.column width="33%"}
-<img src="files/logo-UNIPD.bmp" style="width:80%; float: left; margin-top: 40px;" />
+<img src="files/logo-UNIPD.bmp" style="width:80%; float: left; margin-top: 35px;" />
 :::
 
 ::: {.column width="33%"}
