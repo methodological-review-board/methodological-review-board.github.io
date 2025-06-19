@@ -4,8 +4,11 @@ toc: false
 
 # Iniziative
 
-## Tavola Rotonda, 27 giugno 2025
+## Tavola Rotonda
 
-[Visualizza la locandina qui](files/locandina-tr.pdf){target="_blank"}
+<iframe src="files/locandina-tr.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
+</iframe>
 
+Link alla presentazione introduttiva
 
+Link alla presentazione sui risultati della survey 
