@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Methodological Review Board"
+  title: ""
   navbar:
+    logo: /files/logo-mrb.bmp
+    href: index.qmd
     left:
       - href: index.qmd
         text: home

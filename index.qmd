@@ -1,8 +1,8 @@
 ---
 toc: false
+include-in-header: files/header.html
+title: "Methodological Review Board"
 ---
-
-# Methodological Review Board
 
 ## Introduzione
 
