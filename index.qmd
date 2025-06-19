@@ -1,28 +1,16 @@
 ---
-title: "Methodological Review Board"
 toc: false
-include-in-header: files/header.html
 ---
 
-## Overview
+# Methodological Review Board
 
-ciaoooooo 
+## Introduzione
 
-## Lecturers
+Il Methodological Review Board (MRB) fa parte del progetto di Ateneo Terza Missione e Open Science – Linea B “Sviluppo del Methodological Review Board in Psicologia”
 
-::: {layout-ncol=3}
+## Panoramica
 
-ciaoooooo
-
-:::
-
-## Program
-
-ciaoooo.
-
-## Organizers
-
-ciaooooo
+Il Methodological Review Board è pensato come un servizio multidisciplinare che fornisce supporto allo sviluppo dei progetti di ricerca, fornendo suggerimenti relativi alla formulazione dei quesiti di ricerca, giustificazione della dimensione del campione e raccolta dei dati, scelta degli strumenti per rilevare i costrutti di interesse, implementazione dell’analisi dei dati, nell’ambito di un processo di pre-registrazione e Open Science (es., tramite piattaforme quali OSF).
 
 ### Organizing committee
 
@@ -33,10 +21,21 @@ ciaooooo
 </br>
 
 
-::: {layout-ncol=3}
+::: {.columns}
 
-![](files/logo-mrb.png){width="40%"}
+::: {.column width="33%"}
+<img src="files/logo-UNIPD.bmp" style="width:80%; float: left; margin-top: 40px;" />
+:::
 
+::: {.column width="33%"}
+<img src="files/logo-MRB.png" style="width:60%; display: block; margin-left: auto; margin-right: auto;" />
+:::
 
+::: {.column width="33%"}
+<img src="files/logo-DPSS3M.bmp" style="width:80%; float: right; margin-top: 30px;" />
+:::
 
 :::
+
+
+
