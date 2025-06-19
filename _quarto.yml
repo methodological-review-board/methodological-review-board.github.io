@@ -5,7 +5,7 @@ project:
 website:
   title: ""
   navbar:
-    logo: /files/logo-mrb.bmp
+    logo: /files/logo-mrb.png
     href: index.qmd
     left:
       - href: index.qmd
