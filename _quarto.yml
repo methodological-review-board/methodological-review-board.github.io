@@ -8,6 +8,9 @@ website:
     left:
       - href: index.qmd
         text: home
+      - href: iniziative.qmd
+        text: iniziative
+        
 
 format:
   html:
