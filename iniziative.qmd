@@ -11,4 +11,4 @@ toc: false
 
 Link alla presentazione introduttiva
 
-Link alla presentazione sui risultati della survey 
+[Link alla presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/results/data_analysis.html)
