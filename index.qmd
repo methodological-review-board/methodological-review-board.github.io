@@ -28,7 +28,7 @@ ciaooooo
 :::
 
 ::: {.column width="33%"}
-<img src="files/logo-MRB.png" style="width:60%; display: block; margin-left: auto; margin-right: auto;" />
+<img src="files/logo-MRB.bmp" style="width:60%; display: block; margin-left: auto; margin-right: auto;" />
 :::
 
 ::: {.column width="33%"}
