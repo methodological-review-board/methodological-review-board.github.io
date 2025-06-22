@@ -10,6 +10,6 @@ include-in-header: files/header.html
 <iframe src="files/locandina-tr.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
 </iframe>
 
-Link alla presentazione introduttiva
+[Link alla presentazione introduttiva](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)
 
 [Link alla presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html)
