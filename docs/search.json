@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "iniziative.html",
-    "href": "iniziative.html",
-    "title": "Iniziative",
-    "section": "",
-    "text": "Link alla presentazione introduttiva\nLink alla presentazione sui risultati della survey"
-  },
-  {
-    "objectID": "iniziative.html#tavola-rotonda",
-    "href": "iniziative.html#tavola-rotonda",
-    "title": "Iniziative",
-    "section": "",
-    "text": "Link alla presentazione introduttiva\nLink alla presentazione sui risultati della survey"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Methodological Review Board",
-    "section": "",
-    "text": "Il Methodological Review Board (MRB) fa parte del progetto di Ateneo Terza Missione e Open Science – Linea B “Sviluppo del Methodological Review Board in Psicologia”"
-  },
-  {
-    "objectID": "index.html#introduzione",
-    "href": "index.html#introduzione",
-    "title": "Methodological Review Board",
-    "section": "",
-    "text": "Il Methodological Review Board (MRB) fa parte del progetto di Ateneo Terza Missione e Open Science – Linea B “Sviluppo del Methodological Review Board in Psicologia”"
-  },
-  {
-    "objectID": "index.html#panoramica",
-    "href": "index.html#panoramica",
-    "title": "Methodological Review Board",
-    "section": "Panoramica",
-    "text": "Panoramica\nIl Methodological Review Board è pensato come un servizio multidisciplinare che fornisce supporto allo sviluppo dei progetti di ricerca, fornendo suggerimenti relativi alla formulazione dei quesiti di ricerca, giustificazione della dimensione del campione e raccolta dei dati, scelta degli strumenti per rilevare i costrutti di interesse, implementazione dell’analisi dei dati, nell’ambito di un processo di pre-registrazione e Open Science (es., tramite piattaforme quali OSF)."
-  },
-  {
-    "objectID": "materiali.html",
-    "href": "materiali.html",
-    "title": "Materiali",
-    "section": "",
-    "text": "Presentazione introduttiva\nPresentazione sui risultati della survey\n\n\n\nInvervista per psicostat"
-  },
-  {
-    "objectID": "materiali.html#birkenstock-as-a-communication-tool-a-case-study-sità-et-al.-2025",
-    "href": "materiali.html#birkenstock-as-a-communication-tool-a-case-study-sità-et-al.-2025",
-    "title": "",
-    "section": "",
-    "text": "“Thinking hard about foot sizes is important for any school [i.e. psychology, statistics], but sadly a process often neglected.” Z. Dienes (2008, p.92)"
-  },
-  {
-    "objectID": "materiali.html#materiali",
-    "href": "materiali.html#materiali",
-    "title": "",
-    "section": "",
-    "text": "(:"
-  },
-  {
     "objectID": "setup.html",
     "href": "setup.html",
     "title": "Set up del Methodological Review Board",
@@ -91,39 +35,25 @@
     "text": "The effectiveness of the MRB will be assessed by tracking the increase in the pre-registration rate among published studies over time. Hardwicke et al. (2024) estimated that the pre-registration rate in psychological research increased from 2.1% (2014–2017) to 7% (2022). Success will be defined as exceeding a 10% rate among eligible studies, and in any case achieving a net increase within two years of the MRB’s implementation.\nAn additional metric may include the increased rate of pre-registered studies from research groups that had previously engaged in pre-registration."
   },
   {
-    "objectID": "materiali.html#tavola-rotonda-27-giugno-2025",
-    "href": "materiali.html#tavola-rotonda-27-giugno-2025",
-    "title": "Materiali",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Methodological Review Board",
     "section": "",
-    "text": "Presentazione introduttiva\nPresentazione sui risultati della survey"
+    "text": "Il Methodological Review Board (MRB) fa parte del progetto di Ateneo Terza Missione e Open Science – Linea B “Sviluppo del Methodological Review Board in Psicologia”"
   },
   {
-    "objectID": "materiali.html#intervista-a-daniel-lakens",
-    "href": "materiali.html#intervista-a-daniel-lakens",
-    "title": "Materiali",
+    "objectID": "index.html#introduzione",
+    "href": "index.html#introduzione",
+    "title": "Methodological Review Board",
     "section": "",
-    "text": "Invervista per psicostat"
+    "text": "Il Methodological Review Board (MRB) fa parte del progetto di Ateneo Terza Missione e Open Science – Linea B “Sviluppo del Methodological Review Board in Psicologia”"
   },
   {
-    "objectID": "materiali.html#intervista-a-daniël-lakens",
-    "href": "materiali.html#intervista-a-daniël-lakens",
-    "title": "Materiali",
-    "section": "",
-    "text": "Invervista per psicostat"
-  },
-  {
-    "objectID": "materiali.html#intervista-a-daniël-lakens-10-marzo-2023",
-    "href": "materiali.html#intervista-a-daniël-lakens-10-marzo-2023",
-    "title": "Materiali",
-    "section": "",
-    "text": "Invervista per psicostat"
-  },
-  {
-    "objectID": " membri.html",
-    "href": " membri.html",
-    "title": "ciao",
-    "section": "",
-    "text": "ciao\n(:"
+    "objectID": "index.html#panoramica",
+    "href": "index.html#panoramica",
+    "title": "Methodological Review Board",
+    "section": "Panoramica",
+    "text": "Panoramica\nIl Methodological Review Board è pensato come un servizio multidisciplinare che fornisce supporto allo sviluppo dei progetti di ricerca, fornendo suggerimenti relativi alla formulazione dei quesiti di ricerca, giustificazione della dimensione del campione e raccolta dei dati, scelta degli strumenti per rilevare i costrutti di interesse, implementazione dell’analisi dei dati, nell’ambito di un processo di pre-registrazione e Open Science (es., tramite piattaforme quali OSF)."
   },
   {
     "objectID": "membri.html",
@@ -131,5 +61,26 @@
     "title": "ciao",
     "section": "",
     "text": "ciao\n(:"
+  },
+  {
+    "objectID": "materiali.html",
+    "href": "materiali.html",
+    "title": "Materiali",
+    "section": "",
+    "text": "Presentazione introduttiva\nPresentazione sui risultati della survey\n\n\n\nInvervista per psicostat"
+  },
+  {
+    "objectID": "materiali.html#tavola-rotonda-27-giugno-2025",
+    "href": "materiali.html#tavola-rotonda-27-giugno-2025",
+    "title": "Materiali",
+    "section": "",
+    "text": "Presentazione introduttiva\nPresentazione sui risultati della survey"
+  },
+  {
+    "objectID": "materiali.html#intervista-a-daniël-lakens-10-marzo-2023",
+    "href": "materiali.html#intervista-a-daniël-lakens-10-marzo-2023",
+    "title": "Materiali",
+    "section": "",
+    "text": "Invervista per psicostat"
   }
 ]

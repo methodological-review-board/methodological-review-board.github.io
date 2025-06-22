@@ -10,8 +10,12 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: iniziative.qmd
-        text: iniziative
+      - href: membri.qmd
+        text: membri
+      - href: setup.qmd
+        text: setup
+      - href: eventi.qmd
+        text: eventi
       - href: materiali.qmd
         text: materiali
         

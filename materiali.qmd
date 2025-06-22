@@ -1,10 +1,16 @@
 ---
 toc: false
 include-in-header: files/header.html
-title: "Methodological Review Board"
+title: ""
 ---
 
-## Birkenstock as a communication tool, a case study (Sità et al., 2025)
+# Materiali
 
-“Thinking hard about foot sizes is important for any school [i.e. psychology, statistics], but sadly a process often neglected.” Z. Dienes (2008, p.92)
+## Tavola Rotonda, 27 giugno 2025
+[Presentazione introduttiva](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)
+
+[Presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html)
+
+## Intervista a Daniël Lakens, 10 marzo 2023
+[Invervista per psicostat](https://psicostat.dpss.psy.unipd.it/events/lakens2023/)
 
