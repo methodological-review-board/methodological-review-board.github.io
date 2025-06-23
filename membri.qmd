@@ -22,5 +22,6 @@ title: ""
 
 - Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
 - Prof. Massimo Grassi, Dipartimento di Psicologia Generale
+- Prof. Daniël Lakens, Human-Technology Interaction group - Eindhoven University of Technology 
 - Dr. Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Dr. Irene Alfarone, Institut für Psychologie – Universität Innsbruck
