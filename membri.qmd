@@ -10,7 +10,7 @@ title: ""
 
 - Prof. Tatiana Marci, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Prof. Massimiliano Pastore, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. [Gianmarco Altoè](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ALTOE%27&key=6A8AF57C3282433554D456917489A756), Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+- Prof. Gianmarco Altoè, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 
 ## Setup team
 
