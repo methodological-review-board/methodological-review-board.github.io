@@ -13,7 +13,7 @@ website:
       - href: membri.qmd
         text: membri
       - href: setup.qmd
-        text: setup
+        text: set-up
       - href: eventi.qmd
         text: eventi
       - href: materiali.qmd
