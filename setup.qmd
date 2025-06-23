@@ -24,13 +24,11 @@ The MRB will also promote Open Science practices by recommending and providing g
 
 ## Suggested Procedure
 
-\begin{enumerate}
-  \item Aided by guidelines provided by the MRB, authors identify an appropriate pre-registration template for the research project. Existing templates (e.g., those available on OSF) are preferred.
-  \item Authors complete the chosen template and submit it to the MRB via a file-sharing platform (e.g., Google Drive, GitHub).
-  \item One or more rounds of review and feedback with the MRB ensure clarity and transparency and provide methodological suggestions.
-  \item Authors publicly pre-register the project on a platform (e.g., OSF); a public link is required, though an embargoed anonymized version is permitted for a specific period.
-  \item Final check and badge award: The MRB verifies alignment with the reviewed template and, if compliant, awards an MRB badge.
-\end{enumerate}
+- Aided by guidelines provided by the MRB, authors identify an appropriate pre-registration template for the research project. Existing templates (e.g., those available on OSF) are preferred.
+- Authors complete the chosen template and submit it to the MRB via a file-sharing platform (e.g., Google Drive, GitHub).
+- One or more rounds of review and feedback with the MRB ensure clarity and transparency and provide methodological suggestions.
+- Authors publicly pre-register the project on a platform (e.g., OSF); a public link is required, though an embargoed anonymized version is permitted for a specific period.
+- Final check and badge award: The MRB verifies alignment with the reviewed template and, if compliant, awards an MRB badge.
 
 An “MRB badge” — ideally verifiable through a DOI or digital signature — will be the board’s primary output. This will be publicly posted on a dedicated website, alongside the project title and a link to the pre-registration. The badge is intended to certify that a pre-registration meets a sufficient standard of methodological clarity and transparency, with clearly acknowledged limitations.
 
