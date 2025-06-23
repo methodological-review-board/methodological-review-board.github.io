@@ -11,6 +11,8 @@ title: ""
 
 [Presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html)
 
+[Repository Github con dati della survey e rispettiva analisi](https://github.com/methodological-review-board/survey)
+
 ## Intervista a Daniël Lakens, 10 marzo 2023
 [Invervista per psicostat](https://psicostat.dpss.psy.unipd.it/events/lakens2023/)
 
