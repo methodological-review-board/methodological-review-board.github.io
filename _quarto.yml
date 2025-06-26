@@ -22,6 +22,8 @@ website:
 
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
     theme:
       - cosmo
       - brand
