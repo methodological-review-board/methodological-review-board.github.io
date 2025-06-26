@@ -9,7 +9,7 @@ title: ""
 ## Tavola Rotonda, 27 giugno 2025
 [Presentazione introduttiva](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)
 
-[Presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html)
+[Presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html){target="_blank"}
 
 [Repository Github con dati della survey e rispettiva analisi](https://github.com/methodological-review-board/survey)
 
