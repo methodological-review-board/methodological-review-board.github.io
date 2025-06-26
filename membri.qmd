@@ -8,20 +8,22 @@ title: ""
 
 ## Responsabili del progetto
 
+- Prof. Gianmarco Altoè, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Prof. Tatiana Marci, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Prof. Massimiliano Pastore, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Gianmarco Altoè, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+
 
 ## Set-up team
 
-- Dr. Laura Sità, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Dr. Giulia Calignano, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+- Dr. Laura Sità, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 
 
 ## Consulenti e collaboratori
 
-- Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
+- Dr. Irene Alfarone, Institut für Psychologie – Universität Innsbruck
 - Prof. Massimo Grassi, Dipartimento di Psicologia Generale
 - Prof. Daniël Lakens, Human-Technology Interaction group – Eindhoven University of Technology 
 - Dr. Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Dr. Irene Alfarone, Institut für Psychologie – Universität Innsbruck
+- Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
+
