@@ -5,9 +5,13 @@ include-in-header: files/header.html
 
 # Iniziative
 
+## La scienza incontra la città
+
+<iframe src="files/SagraMRB.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
+</iframe>
+
 ## Tavola Rotonda
 
 <iframe src="files/locandina-tr.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
 </iframe>
-
 
