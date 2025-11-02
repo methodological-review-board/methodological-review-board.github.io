@@ -7,7 +7,7 @@ include-in-header: files/header.html
 
 ## La scienza incontra la città
 
-<iframe src="files/SagraMRB.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
+<iframe src="files/locandina-sagra.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
 </iframe>
 
 ## Tavola Rotonda
