@@ -24,6 +24,7 @@ title: ""
 - Irene Alfarone, Institut für Psychologie – Universität Innsbruck
 - Prof. Massimo Grassi, Dipartimento di Psicologia Generale
 - Prof. Daniël Lakens, Human-Technology Interaction group – Eindhoven University of Technology 
+- Matteo Manente, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
 
@@ -40,5 +41,6 @@ Oltre ai responsabili del progetto e al team di set-up, contribuirano all’impl
 - Dr. Margherita Calderan, Dipartimento di Psicologia Generale
 - Dr. Tommaso Ferraco, Dipartimento di Psicologia Generale
 - Dr. Filippo Gambarota, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+- Matteo Manente, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
 - Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
