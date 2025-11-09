@@ -4,6 +4,8 @@ include-in-header: files/header.html
 title: ""
 ---
 
+<div style="text-align: justify;">
+
 # MRB Members
 
 ## Project Coordinators
@@ -28,7 +30,7 @@ title: ""
 
 ## Pilot Study Team
 
-In addition to the project coordinators and the set-up team, the following members will contribute to the implementation of the MRB in a pilot study:
+In addition to the project coordinators and the set-up team, the following members from the School of Psychology at the University of Padova will take part in the implementation of the MRB as part of a pilot study.
 
 - Prof. Francesco Vespignani, Department of Developmental and Social Psychology  
 - Prof. Stefano Noventa, Department of General Psychology  
