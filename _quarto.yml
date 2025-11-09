@@ -10,14 +10,14 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: membri.qmd
-        text: membri
+      - href: members.qmd
+        text: members
       - href: setup.qmd
         text: set-up
-      - href: eventi.qmd
-        text: eventi
-      - href: materiali.qmd
-        text: materiali
+      - href: events.qmd
+        text: events
+      - href: materials.qmd
+        text: materials
         
 
 format:
