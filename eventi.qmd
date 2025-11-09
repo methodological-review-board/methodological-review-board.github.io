@@ -3,15 +3,14 @@ toc: false
 include-in-header: files/header.html
 ---
 
-# Iniziative
+# Initiatives
 
-## La scienza incontra la città
+## Science is Open
 
 <iframe src="files/locandina-sagra.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
 </iframe>
 
-## Tavola Rotonda
+## Round Table
 
 <iframe src="files/locandina-tr.pdf" width="100%" height="800px" style="border:1px solid #ccc;">
 </iframe>
-

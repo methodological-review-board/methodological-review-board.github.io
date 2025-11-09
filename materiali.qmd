@@ -4,15 +4,15 @@ include-in-header: files/header.html
 title: ""
 ---
 
-# Materiali
+# Materials
 
-## Tavola Rotonda, 27 giugno 2025
-[Presentazione introduttiva](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)
+## Round Table, June 27, 2025  
+[Introductory Presentation](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)  
 
-[Presentazione sui risultati della survey](https://methodological-review-board.github.io/survey/data_analysis.html){.external target="_blank"}
+[Presentation of Survey Results](https://methodological-review-board.github.io/survey/data_analysis.html){.external target="_blank"}  
 
-[Repository Github con dati della survey e rispettiva analisi](https://github.com/methodological-review-board/survey)
+[GitHub Repository with Survey Data and Analysis](https://github.com/methodological-review-board/survey)  
 
-## Intervista a Daniël Lakens, 10 marzo 2023
-[Invervista per psicostat](https://psicostat.dpss.psy.unipd.it/events/lakens2023/)
+## Interview with Daniël Lakens, March 10, 2023  
+[Interview for Psicostat](https://psicostat.dpss.psy.unipd.it/events/lakens2023/)
 

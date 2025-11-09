@@ -4,43 +4,41 @@ include-in-header: files/header.html
 title: ""
 ---
 
-# Membri del MRB
+# MRB Members
 
-## Responsabili del progetto
+## Project Coordinators
 
-- Prof. Gianmarco Altoè, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Tatiana Marci, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Massimiliano Pastore, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+- Prof. Gianmarco Altoè, Department of Developmental and Social Psychology  
+- Prof. Tatiana Marci, Department of Developmental and Social Psychology  
+- Prof. Massimiliano Pastore, Department of Developmental and Social Psychology  
 
+## Set-up Team
 
-## Set-up team
+- Dr. Giulia Calignano, Department of Developmental and Social Psychology  
+- Laura Sità, Department of Developmental and Social Psychology  
 
-- Dr. Giulia Calignano, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Laura Sità, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
+## Advisors and Collaborators
 
+- Irene Alfarone, Institut für Psychologie – Universität Innsbruck  
+- Prof. Massimo Grassi, Department of General Psychology  
+- Prof. Daniël Lakens, Human-Technology Interaction Group – Eindhoven University of Technology  
+- Matteo Manente, Department of Developmental and Social Psychology  
+- Ambra Perugini, Department of Developmental and Social Psychology  
+- Prof. Enrico Toffalini, Department of General Psychology  
 
-## Consulenti e collaboratori
+## Pilot Study Team
 
-- Irene Alfarone, Institut für Psychologie – Universität Innsbruck
-- Prof. Massimo Grassi, Dipartimento di Psicologia Generale
-- Prof. Daniël Lakens, Human-Technology Interaction group – Eindhoven University of Technology 
-- Matteo Manente, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
+In addition to the project coordinators and the set-up team, the following members will contribute to the implementation of the MRB in a pilot study:
 
-## Team per lo studio pilota
-
-Oltre ai responsabili del progetto e al team di set-up, contribuirano all’implementazione del MRB su uno studio pilota:
-
-- Prof. Francesco Vespignani, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Stefano Noventa, Dipartimento di Psicologia Generale
-- Prof. Giovanni Bruno, Dipartimento di Psicologia Generale
-- Prof. Giorgio Arcara, Dipartimento di Psicologia Generale
-- Prof. Fabio Masina, Dipartimento di Psicologia Generale
-- Prof. Antonio Maffei, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Dr. Margherita Calderan, Dipartimento di Psicologia Generale
-- Dr. Tommaso Ferraco, Dipartimento di Psicologia Generale
-- Dr. Filippo Gambarota, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Matteo Manente, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Ambra Perugini, Dipartimento di Psicologia dello Sviluppo e della Socializzazione
-- Prof. Enrico Toffalini, Dipartimento di Psicologia Generale
+- Prof. Francesco Vespignani, Department of Developmental and Social Psychology  
+- Prof. Stefano Noventa, Department of General Psychology  
+- Prof. Giovanni Bruno, Department of General Psychology  
+- Prof. Giorgio Arcara, Department of General Psychology  
+- Prof. Fabio Masina, Department of General Psychology  
+- Prof. Antonio Maffei, Department of Developmental and Social Psychology  
+- Dr. Margherita Calderan, Department of General Psychology  
+- Dr. Tommaso Ferraco, Department of General Psychology  
+- Dr. Filippo Gambarota, Department of Developmental and Social Psychology  
+- Matteo Manente, Department of Developmental and Social Psychology  
+- Ambra Perugini, Department of Developmental and Social Psychology  
+- Prof. Enrico Toffalini, Department of General Psychology  
