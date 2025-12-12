@@ -51,3 +51,5 @@ In addition to the project coordinators and the set-up team, the following membe
   \item Prof. Michele Vicovaro, Department of General Psychology
 \end{itemize}
 
+</div>
+
