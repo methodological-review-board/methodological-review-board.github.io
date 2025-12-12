@@ -32,19 +32,22 @@ title: ""
 
 In addition to the project coordinators and the set-up team, the following members from the School of Psychology at the University of Padova will take part in the implementation of the MRB as part of a pilot study:
 
-- Prof. Francesco Vespignani, Department of Developmental and Social Psychology  
-- Prof. Stefano Noventa, Department of General Psychology  
-- Prof. Giovanni Bruno, Department of General Psychology  
-- Prof. Giorgio Arcara, Department of General Psychology  
-- Prof. Fabio Masina, Department of General Psychology  
-- Prof. Antonio Maffei, Department of Developmental and Social Psychology 
-- Prof. Michele Vicovaro, Department of General Psychology
-- Dr. Anna Panzeri, Department of General Psychology
-- Dr. Luca Menghini, Department of General Psychology 
-- Roberta Incardona, Department of Developmental and Social Psychology  
-- Dr. Margherita Calderan, Department of General Psychology  
-- Dr. Tommaso Feraco, Department of General Psychology  
-- Dr. Filippo Gambarota, Department of Developmental and Social Psychology  
-- Matteo Manente, Department of Developmental and Social Psychology  
-- Ambra Perugini, Department of Developmental and Social Psychology  
-- Prof. Enrico Toffalini, Department of General Psychology  
+\begin{itemize}
+  \item Prof. Giorgio Arcara, Department of General Psychology
+  \item Prof. Giovanni Bruno, Department of General Psychology
+  \item Dr. Margherita Calderan, Department of General Psychology
+  \item Dr. Tommaso Feraco, Department of General Psychology
+  \item Dr. Filippo Gambarota, Department of Developmental and Social Psychology
+  \item Roberta Incardona, Department of Developmental and Social Psychology
+  \item Prof. Antonio Maffei, Department of Developmental and Social Psychology
+  \item Matteo Manente, Department of Developmental and Social Psychology
+  \item Prof. Fabio Masina, Department of General Psychology
+  \item Dr. Luca Menghini, Department of General Psychology
+  \item Prof. Stefano Noventa, Department of General Psychology
+  \item Dr. Anna Panzeri, Department of General Psychology
+  \item Ambra Perugini, Department of Developmental and Social Psychology
+  \item Prof. Enrico Toffalini, Department of General Psychology
+  \item Prof. Francesco Vespignani, Department of Developmental and Social Psychology
+  \item Prof. Michele Vicovaro, Department of General Psychology
+\end{itemize}
+
