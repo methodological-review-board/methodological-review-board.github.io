@@ -6,6 +6,13 @@ title: ""
 
 # Materials
 
+## Pre-registration Templates
+
+[Step 1](https://pnslhg-giulia-calignano.shinyapps.io/step1/)
+
+[Step 2](https://pnslhg-giulia-calignano.shinyapps.io/step2/)
+
+
 ## Round Table, June 27, 2025  
 [Introductory Presentation](https://caligiu.github.io/TavolaRotonda_MRB/slides_MRB/Index.html)  
 
