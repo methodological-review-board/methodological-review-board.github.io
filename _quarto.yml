@@ -18,6 +18,8 @@ website:
         text: events
       - href: materials.qmd
         text: materials
+      - href: template.qmd
+        text: template  
         
 
 format:

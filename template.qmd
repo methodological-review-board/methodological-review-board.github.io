@@ -1,0 +1,14 @@
+---
+toc: false
+include-in-header: files/header.html
+title: ""
+---
+
+# Pre-registration template
+testo
+
+# Links
+
+[step 1, section A and B](https://pnslhg-giulia-calignano.shinyapps.io/step1/)
+
+[step 2](https://pnslhg-giulia-calignano.shinyapps.io/step2/)
