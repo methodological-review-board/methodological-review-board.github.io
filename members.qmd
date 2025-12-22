@@ -17,7 +17,7 @@ title: ""
 ## Set-up Team
 
 - Dr. Giulia Calignano, Department of Developmental and Social Psychology  
-- Laura Sità, Department of Developmental and Social Psychology  
+- Laura Sità, Department of General Psychology  
 
 ## Advisors and Collaborators
 
@@ -48,7 +48,6 @@ In addition to the project coordinators and the set-up team, the following membe
 - Prof. Enrico Toffalini, Department of General Psychology
 - Prof. Francesco Vespignani, Department of Developmental and Social Psychology
 - Prof. Michele Vicovaro, Department of General Psychology
-\end{itemize}
 
 </div>
 
