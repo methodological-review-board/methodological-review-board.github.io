@@ -3,23 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "MRB"
   navbar:
     logo: /files/logo-mrb.png
     href: index.qmd
     left:
       - href: index.qmd
-        text: home
+        text: Home
       - href: members.qmd
-        text: members
+        text: Members
       - href: setup.qmd
-        text: set-up
-      - href: events.qmd
-        text: events
-      - href: materials.qmd
-        text: materials
+        text: Set-up
       - href: template.qmd
-        text: template  
+        text: Template
+      - href: events.qmd
+        text: Events
+      - href: materials.qmd
+        text: Materials
+        
         
 
 format:
