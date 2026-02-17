@@ -14,6 +14,8 @@ website:
         text: Members
       - href: setup.qmd
         text: Set-up
+      - href: template.qmd
+        text: Template       
       - href: events.qmd
         text: Events
       - href: materials.qmd
